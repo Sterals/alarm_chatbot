@@ -1,0 +1,145 @@
+intents:
+  - greet
+  - affirm
+  - bye
+  - deny
+  - alarm.remove
+  - alarm.check
+  - alarm.change
+  - Default_Fallback_Intent
+  - alarm.set
+  - thank
+  - set_alarm_name
+
+
+
+entities:
+  - name
+  - recurrence
+  - time
+  - date
+  - time-period
+  - date-period
+  - all
+  - alarm-name
+  - song
+  - date-from
+  - date-to
+  - time-from
+  - time-to
+  - alarm-name-to
+  - recurrence-from
+  - recurrence-to
+  - genre
+
+
+actions:
+  - action_context_date
+
+slots:
+  name:
+    type: text
+    initial_value: "Marina"
+
+  recurrence:
+    type: text
+    initial_value: "every day"
+
+  time:
+    type: text
+    initial_value: 6 am
+
+  date:
+    type: text
+    initial_value: "tomorrow"
+
+  time-period:
+    type: text
+    initial_value: "morning"
+
+  date-period:
+    type: text
+    initial_value: "this week"
+
+  all:
+    type: text
+    initial_value: "all"
+
+  alarm-name:
+    type: text
+    initial_value: "Work"
+
+  song:
+    type: text
+
+  date-from:
+    type: text
+    initial_value: "tomorrow"
+
+  date-to:
+    type: text
+    initial_value: "tomorrow"
+
+  time-from:
+    type: text
+    initial_value: "6 am"
+    
+  time-to:
+    type: text
+    initial_value: "6 am"
+
+  alarm-name-to:
+    type: text
+
+  recurrence-from:
+    type: text
+    initial_value: "every day"
+
+  recurrence-to:
+    type: text
+    initial_value: "every day"
+
+  genre:
+    type: text
+    initial_value: jazz
+
+
+responses:
+  utter_greet:
+  - text: "Hey, {name}! How can i help you?"
+
+  utter_affirm:
+  - text: "Got it!"
+
+  utter_bye:
+  - text: "Have a nice day!"
+
+  utter_deny:
+  - text: "How can i help you?"
+
+  utter_alarm_name:
+  - text: "You want to set alarm at {time} on {date} with reapeating {recurrence} with name {alarm-name}. Right?" 
+
+  utter_alarm_remove:
+  - text: "You want to remove alarm at {time} on {date} with reapeating {recurrence}. Right?"
+
+  utter_alarm_check:
+  - text: "You have alarm at {time} on {date} with reapeating {recurrence}."
+
+  utter_noname_set:
+  - text: "You want to remove alarm at {time} on {date} with reapeating {recurrence}. Right?"
+
+  utter_alarm_change:
+  - text: "You want to change alarm from {time-from} on {date-from} 
+  with reapeating {recurrence-from} to {time-to} on {date-to} 
+  with reapeating {recurrence-to}. Right?"
+
+  utter_alarm_set:
+  - text: "Do you want to set alarm name? (type 'alarm name: *name*', plz)"
+
+  utter_thank:
+  - text: "You are welcome!"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

@@ -1,0 +1,698 @@
+
+## intent:greet
+- Bom dia
+- Bonjour
+- Good Morning
+- Good morning
+- Good mourning
+- Guten Morgen
+- HELLO
+- HEY
+- HEllo
+- HI
+- HI Sara
+- Hallo
+- Hei
+- Hellllooooooo
+- Hello
+- Hello Bot
+- Hello Rasa
+- Hello Sara
+- Hello sara
+- Hello!
+- Hey
+- Hey Sara
+- Hey bot
+- Heya
+- Heylo
+- Hi
+- Hi Sara
+- Hi Sara!
+- Hi bot
+- Hi man
+- Hi rasa
+- Hi sara
+- Hi sara..
+- Hi there
+- Hi!
+- Hi'
+- Hi,
+- Hi, bot
+- Hieee
+- Hieeeeeeeeeeeee
+- Hola
+- I said, helllllloooooO!!!!
+- Well hello there ;)
+- What is up?
+- Whats up
+- Whats up my bot
+- Whats up?
+- ayyyy whaddup
+- bonjour
+- ey boss
+- good evening
+- good moring
+- good morning
+- greet
+- greetings
+- hai
+- hallo
+- hallo sara
+- halloo
+- halloooo
+- halo
+- halo sara
+- heeey
+- heelio
+- hell9o
+- hellio
+- hello
+- hello Sara
+- hello everybody
+- hello friend
+- hello hi
+- hello is anybody there
+- hello it is me again
+- hello robot
+- hello sara
+- hello sweatheart
+- hello sweet boy
+- hello there
+- hello world
+- hello, my name is [Charles Pfeffer](name)
+- hello?
+- hello]
+- hellooo
+- helloooo
+- helo
+- hey
+- hey bot
+- hey bot!
+- hey dude
+- hey hey
+- hey let's talk
+- hey rasa
+- hey sara
+- hey ther
+- hey there
+- hey there boy
+- hey there..
+- hey, let's talk
+- hey, sara!
+- heya
+- heyho
+- heyo
+- hhola
+- hi
+- hi !
+- hi Mister
+- hi again
+- hi can you speak ?
+- hi folks
+- hi friend
+- hi friends
+- hi hi
+- hi i'm [Sandra Hernandez](name)
+- hi im [Amanda Anderson](name)
+- hi mrs rasa
+- hi pal!
+- hi sara
+- hi there
+- hi there it's me
+- hi!
+- hi.........................................................
+- hi?
+- hieee
+- hii
+- hiihihi
+- hiii
+- hlo
+- hola
+- howdy
+- i am [Karen Mease](name)
+- jojojo
+- jop
+- konichiwa
+- merhaba
+- ola sara
+- rasa hello
+- salut
+- sup
+- wasssup
+- wasssup!
+- what up
+- whats popping
+- whats up
+- yo
+- yoo
+- ssup?
+- helleo
+
+## intent:affirm
+- Accept
+- Awesome!
+- Good
+- Great
+- I accept
+- I accept.
+- I agree
+- I am using it
+- I changed my mind. I want to accept it
+- I do
+- I get it
+- I guess so
+- I have used it in the past
+- I will
+- I'd absolutely love that
+- I'm sure I will!
+- I'm using it
+- Nice
+- OK
+- Ofcourse
+- Oh yes
+- Oh, ok
+- Ok
+- Ok let's start
+- Ok.
+- Okay
+- Okay!
+- PLEASE
+- SURE
+- Sure
+- Sweet
+- That would be great
+- YES
+- YUP
+- Yea
+- Yeah
+- Yeah sure
+- Yep
+- Yep that's fine
+- Yep!
+- Yepp
+- Yes
+- Yes I do
+- Yes please
+- Yes please!
+- Yes, I accept
+- Yes.
+- Yup
+- a little
+- absolutely
+- accept
+- accepted
+- agreed
+- ah ok
+- alright
+- alright, cool
+- amayzing
+- amazing!
+- awesome
+- awesome!
+- confirm
+- cool story bro
+- definitely yes without a doubt
+- done
+- fair enough
+- fcourse
+- fine
+- fuck yeah!
+- go
+- go ahead
+- go for it
+- going super well
+- good.
+- great
+- great lets do that
+- great!
+- hell yeah
+- hell yes
+- hm, i'd like that
+- how nice!
+- i accept
+- i agree
+- i am!
+- i want that
+- i will!
+- it is ok
+- its okay
+- ja
+- ja cool
+- ja thats great
+- jezz
+- jo
+- k
+- kk
+- lets do it
+- lets do this
+- not bad
+- of course
+- ofcoure i do
+- ofcourse
+- oh awesome!
+- oh cool
+- oh good !!
+- oh super
+- ok
+- ok cool
+- ok fine
+- ok friend
+- ok good
+- ok great
+- ok i accept
+- ok sara
+- ok, I behave now
+- ok, I understood
+- ok, Sara
+- ok...
+- okay
+- okay cool
+- okay sure
+- okay..
+- oki doki
+- okie
+- ook
+- oui
+- perfect
+- please
+- si
+- sort of
+- sure
+- sure thing
+- sure!
+- that is cool
+- that ok
+- that sounds fine
+- that's great
+- thats fine
+- thats good
+- thats great
+- top
+- uh-huh
+- very much
+- well yes
+- y
+- ya
+- ya cool
+- ya go for it
+- ya i want
+- ya please
+- ya thats cool
+- yaah
+- yap
+- yaps
+- yas
+- yay
+- ye
+- ye splease
+- yea
+- yeah
+- yeah do that
+- yeah sure
+- yeah'=
+- yeah, why not
+- yeeeeezzzzz
+- yeeees
+- yep
+- yep i want that
+- yep if i have to
+- yep please
+- yep that's nice
+- yep thats cool
+- yep, will do thank you
+- yep. :/
+- yes
+- yes ...
+- yes I do
+- yes accept please
+- yes baby
+- yes cool
+- yes give me information
+- yes go ahead
+- yes go for it
+- yes great
+- yes i accept
+- yes i agree
+- yes i have built a bot before
+- yes i have!
+- yes it is
+- yes it was okay
+- yes of course
+- yes pleae
+- yes please
+- yes please!
+- yes pls
+- yes sirfr
+- yes that's great
+- yes that's what i want
+- yes you can
+- yes'
+- yes, I'd love to
+- yes, cool
+- yes, give me information, please
+- yes,i am
+- yes.
+- yesh
+- yess
+- yessoo
+- yesss
+- yesssss
+- yesyestyes
+- yesyesyes
+- yez
+- yop
+- you asked me a yes or no question, which i answered with yes
+- you got me, I accept, if you want me to
+- yres
+- ys
+- yup
+- yyeeeh
+- Okay cool
+- ok..
+- considering
+- More a less
+- cool beans
+- sounds good!
+- really
+
+
+## intent:bye
+- Bye
+- Bye bye
+- adios
+- adios?
+- bye
+- bye .
+- bye :P
+- bye bot
+- bye bye
+- bye bye bot
+- bye for now
+- bye udo
+- bye was nice talking to you
+- bye!
+- byee
+- catch you later
+- ciao
+- cya
+- farewell
+- good bye
+- good bye rasa bot!
+- good night
+- goodbye
+- goodbye.
+- goodnight
+- gotta go
+- k byyye #slay
+- ok Bye
+- ok bye
+- ok, bye
+- ok.bye
+- see u later
+- see ya
+- see you
+- see you . bye
+- take care
+- then bye
+- tlak to you later
+- toodle-oo
+- Exit
+- Close this talk
+- byr
+
+
+## intent:deny
+- I don't want to
+- I don't want to give it to you
+- I don't want to say
+- I dont want to tell
+- I'm not giving you my email address
+- I'm not going to give it to you
+- NEIN
+- NO
+- NO DON"T WANT THIS!
+- Nah
+- Neither
+- Never
+- Nevermind
+- No
+- No thank you
+- No, not really.
+- No, thank you
+- No.
+- Nopes
+- Not really
+- absolutely not
+- decline
+- definitely not
+- deny
+- i decline
+- i don not like this
+- i don't think so
+- i don't want either of those
+- i don't want to
+- i don't want to give you my email
+- i dont want to
+- i dont want to accept :P lol
+- i guess it means - no
+- i'm afraid not
+- i'm not sure
+- it is going pretty badly
+- it sucks
+- it sux
+- n
+- na
+- nah
+- nah I'm good
+- nah not for me
+- nah, first time
+- nah, i'm good
+- nehi
+- nein
+- neither
+- never
+- never mind
+- no
+- no :(
+- no I dont want
+- no I haven't decided yet if I want to sign up
+- no and no again
+- no bots at all
+- no go
+- no i can't
+- no i don't accept
+- no i dont want to
+- no i dont want to accept :P lol
+- no i won't
+- no ma'am
+- no sir
+- no sorry
+- no thank s
+- no thank you
+- no thanks
+- no way
+- no you did it wrong
+- no!!!!
+- no, i hate it
+- no, my frst time
+- no, thank you
+- no, thanks
+- no, thankyou
+- no. u r idiot
+- non
+- noooooooooo
+- noooooooooooooooooooooooooooooooooooooooo
+- nop
+- nope
+- nope!
+- nope. i am good
+- not going well at all
+- not really
+- not right now
+- not yet
+- nö
+- sorry not right now
+- still dont want to tell
+- thanks but no thanks
+- this sucks
+- very bad
+- I do not need help installing
+- I don't wanna tell the name of my company
+- no stop
+- stop it, i do not care!!!
+- none of them
+- I don't agree
+
+## intent:alarm.remove
+- don't wake me up on [Mondays](recurrence)
+- remove [6 am](time) alarm
+- remove my alarms for the [morning](time-period)
+- turn off my [weekly](recurrence) alarm
+- remove my alarms set for [8 am](time)
+- remove alarm
+- don't wake me up at [5 am](time) [next week](date-period)
+- remove [all](all) my alarms
+- I'd like to remove my alarms
+- remove alarms for [tomorrow](date) at [9](time)
+- turn off the alarm for [10 am](time)
+- I'd like to turn off the [weekly](recurrence) alarm at [10 am](time)
+- turn off alarms
+- cancel [8 pm](time) alarm [tomorrow](date)
+- could you erase my alarms list
+- can you remove my [6 am](time) alarm please
+- disable my [Work](alarm-name) alarm
+- switch off my alarms for [tomorrow](date)
+- remove [all](all) my alarms at [8 am](time)
+- clear the alarms list for [next week](date-period)
+- delete the alarm called [Gym](alarm-name)
+- turn off [all](all) my alarms
+- erase the list of [all](all) my alarms
+
+## intent:alarm.check
+- show me [all](all) my alarms
+- check [all](all) my alarms
+- is my [weekly](recurrence) alarm set
+- my alarms
+- show my alarms for [tomorrow](date)
+- is my alarm set
+- [all](all) my alarms
+- is my [Work](alarm-name) alarm on
+- what time did you set the alarm for
+- is my [daily](recurrence) alarm set for [10 am](time)
+- my alarms set for [8 am](time)
+- did you set that alarm for [6:30](time)
+- for what time do I have my alarm set
+- check alarms at [9:30 pm](time)
+- pull up the list of [all](all) my alarms
+- how many alarms do I have for the [morning](time-period)
+- show my alarm called [Gym](alarm-name)
+- do I have any alarms set
+- do I have any alarms set for [June 22](date)
+- check my alarm for [6 am](time)
+- show my alarms
+- alarms list
+- I'd like to see my alarms
+- at what time do you wake me up on [Mondays](recurrence)
+- alarms list for [next week](date-period)
+- did you set the alarm for [10 am](time)
+- I'd like to see my [daily](recurrence) alarms
+- what time is my alarm set for
+- do I have any alarms [tomorrow](date) at [9](time)
+
+## intent:alarm.change
+- edit the wake up call song to [Yellow Submarine](song)
+- change the alarm music
+- move my alarm from [Friday](date-from) [6 pm](time-from) to [Saturday](date-to) [7 pm](time-to)
+- move my [4:00 am](time-from) alarm to [5:30](time-to)
+- how can I change the wake up music
+- rename my [Gym](alarm-name) alarm to [Sports](alarm-name-to)
+- how can I modify my [daily](recurrence-from) alarm
+- I'd like to reschedule [all](all) my alarms
+- change [all](all) my alarms
+- move my [Gym](alarm-name) alarm to [10 pm](time-to)
+- change the [8:45](time-from) alarm music to [Yellow Submarine](song)
+- change my [daily](recurrence-from) alarm recurrence to [every Sunday](recurrence-to)
+- could you move my alarm from [Friday](date-from) to [Saturday](date-to)
+- could you change the [8:30](time-from) alarm
+- I need to change my [5 am](time-from) alarm to [7 am](time-to)
+- I'd like to customize my alarm
+- change [6 am](time-from) alarm to [7 am](time-to)
+- reschedule an alarm
+- edit my [6:10](time-from) alarm
+- edit [every Monday](recurrence-from) alarm to [every Tuesday](recurrence-to)
+- I'd like to customize my [07:45](time-from) alarm
+- manage alarms
+- edit the wake up time
+- change my alarm to [3 pm](time-to)
+- I'd like to change my alarm to [8:30 am](time-to)
+- reschedule the [6 pm](time-from) alarm to [7 pm](time-to)
+- reschedule my [daily](recurrence-from) alarm to [every Monday](recurrence-to) at [9 am](time-to)
+- edit alarm
+- change my [Tuesday](date-from) alarm
+- edit the ringtone for my alarm
+- edit my alarm for [tomorrow](date-from)
+- rename my [Work](alarm-name) alarm
+
+## intent:Default_Fallback_Intent
+- reschedule the meeting for me
+- edit the ringtone on my phone
+- change the music
+- play Let It Be by The Beatles
+- what a beautiful morning
+- waking up in the morning is so hard
+- play a song for me
+- I didn't want an alarm
+
+## intent:alarm.set
+- wake me up [every day](recurrence) at [6](time)
+- new alarm called [Gym](alarm-name) for [weekdays](recurrence) at [10](time)
+- set alarm at [8 am](time) in the morning
+- I need an alarm set for [weekdays](recurrence) at [4 am](time)
+- wake me up with [Cool Girl](song) song
+- could you set an alarm for [6 am](time)
+- set alarm for [10 am](time) [tomorrow](date)
+- could you set an alarm for [every Monday](recurrence) at [9 am](time)
+- wake me up
+- set new alarm for [9 am](time) on [Wednesday](date)
+- set new alarm for [10 pm](time)
+- alarm for [tomorrow](date) at [8 pm](time)
+- alarm for [9 am](time)
+- I'd like to set an alarm at [7 am](time) [every weekend](recurrence)
+- I want to wake [every day](recurrence) at [7 am](time) with [Jazz](genre) music
+- could you set an alarm
+- set an alarm
+- wake me up at [8](time) [every day](recurrence)
+- new alarm called [Gym](alarm-name)
+- wake me up [in 8 hours](time) with [Let It Be](song) by [The Beatles](artist)
+- new alarm
+- alarm
+- I'd like to set an alarm for [7 pm](time)
+- set alarm [Work](alarm-name) [tomorrow](date) at [9 pm](time)
+- wake me up at [9 am](time)
+
+## intent:set_alarm_name
+- alarm name: [Work](alarm-name)
+- alarm name: [Morning alarm](alarm-name)
+- alarm name: [Gym](alarm-name)
+- alarm name: [Job](alarm-name)
+
+## intent:thank
+- Cool. Thanks
+- Great, thanks
+- Thank you
+- Thank you Sara
+- Thank you so much
+- Thank's!
+- Thanks
+- Thanks bot
+- Thanks for that
+- Thanks!
+- amazing, thanks
+- cheers
+- cheers bro
+- cool thank you
+- cool thanks
+- cool, thanks
+- danke
+- great thanks
+- ok thanks
+- ok thanks sara
+- ok thanks!
+- perfect thank you
+- thank u
+- thank you
+- thank you anyways
+- thanks
+- thanks a bunch for everything
+- thanks a lot
+- thanks for forum link, I'll check it out
+- thanks for the help
+- thanks this is great news
+- thanks you
+- thanks!
+- thankyou
+- thnks
+- thx
+- yes thanks
+- thanks for your information
+- thanks f
